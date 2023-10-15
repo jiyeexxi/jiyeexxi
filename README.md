@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&animation=blinking&text=Hi!%20I'm%20Jiye%20Jeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&animation=blinking&text=Hi!%20I'm%20Jiye%20Jeon&fontSize=70)
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
